@@ -1,7 +1,7 @@
 # BusinessOnBot-Part-1
 
 ## Sentiment Analysis on Covid-19 Tweets
-### The use of social media has increased over the past two years due to Covid-19 pandemic.The main objective of this analysis is to understand public sentiment. A lot of people have used social media as a medium to express their feelings and emotions where some people conveyed sad messages while others shared positive content. People have also used social media to seek medical help related to vaccines and others. Analyzing these type of data posted on social media might help us analyze and solve many issues related to the pandemic. In this analysis I have used classification in Machine Learning algorithms to find out whether the sentiment portrayed by the tweets in Twitter are positive or not.
+### The use of social media has increased over the past two years due to Covid-19 pandemic.The main objective of this analysis is to understand public sentiment. A lot of people have used social media as a medium to express their feelings and emotions where some people conveyed sad messages while others shared positive content. People have also used social media to seek medical help related to vaccines and others. Analyzing these type of data posted on social media might help us analyze and solve many issues related to the pandemic. In this analysis I have used classification in Machine Learning algorithms to find out whether the sentiment portrayed by the tweets in Twitter are positive or negative.
 
 ### Workflow of this analysis
 
